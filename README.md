@@ -1,4 +1,5 @@
 **AI Flashcards Generator**
+
 An AI-powered web application that converts study notes into concise, exam-focused flashcards using Google Gemini AI. Users can upload a PDF or paste text and instantly generate question–answer flashcards for effective revision.
 
 **Features**
